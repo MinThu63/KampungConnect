@@ -214,7 +214,8 @@ Connect your GitHub repo to [Vercel](https://vercel.com) — it deploys automati
 ---
 
 ## Screenshots
-https://github.com/MinThu63/KampungConnect
+<img width="1302" height="704" alt="Screenshot 2026-04-27 213307" src="https://github.com/user-attachments/assets/5730c94c-da19-47b7-afcb-73f8facb45ed" />
+
 
 
 ## Roadmap
