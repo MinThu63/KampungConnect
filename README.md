@@ -216,6 +216,7 @@ Connect your GitHub repo to [Vercel](https://vercel.com) — it deploys automati
 ## Screenshots
 <img width="1302" height="704" alt="Screenshot 2026-04-27 213307" src="https://github.com/user-attachments/assets/5730c94c-da19-47b7-afcb-73f8facb45ed" />
 
+
 <img width="2489" height="1374" alt="Screenshot 2026-04-27 214535" src="https://github.com/user-attachments/assets/6bdb67da-867d-4549-a267-07451804c4d9" />
 
 <img width="591" height="106" alt="Screenshot 2026-04-27 214547" src="https://github.com/user-attachments/assets/99625d6b-70bd-491a-b469-62ca92954bcc" />
