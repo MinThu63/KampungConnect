@@ -216,7 +216,37 @@ Connect your GitHub repo to [Vercel](https://vercel.com) — it deploys automati
 ## Screenshots
 <img width="1302" height="704" alt="Screenshot 2026-04-27 213307" src="https://github.com/user-attachments/assets/5730c94c-da19-47b7-afcb-73f8facb45ed" />
 
+<img width="2489" height="1374" alt="Screenshot 2026-04-27 214535" src="https://github.com/user-attachments/assets/6bdb67da-867d-4549-a267-07451804c4d9" />
 
+<img width="591" height="106" alt="Screenshot 2026-04-27 214547" src="https://github.com/user-attachments/assets/99625d6b-70bd-491a-b469-62ca92954bcc" />
+
+<img width="340" height="83" alt="Screenshot 2026-04-27 214557" src="https://github.com/user-attachments/assets/d7f6a990-341e-4099-89fa-d6e7c015a0ce" />
+
+<img width="2132" height="2" alt="Screenshot 2026-04-27 214629" src="https://github.com/user-attachments/assets/3c9bc743-664b-4ebd-b9ef-d20480fe04bd" />
+
+<img width="1420" height="1388" alt="Screenshot 2026-04-27 214643" src="https://github.com/user-attachments/assets/29c10371-3f71-48b2-8270-2eacb180210d" />
+
+<img width="1447" height="1139" alt="Screenshot 2026-04-27 214720" src="https://github.com/user-attachments/assets/598b2db2-d46d-48c7-9b11-f58257477930" />
+
+<img width="306" height="68" alt="Screenshot 2026-04-27 214745" src="https://github.com/user-attachments/assets/242daa6a-02ad-43ff-9a14-d790019e2b11" />
+
+<img width="1313" height="888" alt="Screenshot 2026-04-27 214802" src="https://github.com/user-attachments/assets/5b788cd0-03a5-4882-8655-cf16194553f1" />
+
+<img width="877" height="1299" alt="Screenshot 2026-04-27 214813" src="https://github.com/user-attachments/assets/8c681af9-0c90-4e6d-aa8d-b97bcd317797" />
+
+<img width="806" height="1325" alt="Screenshot 2026-04-27 214822" src="https://github.com/user-attachments/assets/91264812-5d11-481e-be4d-5ec17660f553" />
+
+<img width="465" height="136" alt="Screenshot 2026-04-27 214843" src="https://github.com/user-attachments/assets/ee2101b8-69b9-4b49-ba91-4268608a9ea6" />
+
+<img width="1309" height="807" alt="Screenshot 2026-04-27 214855" src="https://github.com/user-attachments/assets/e93ef1bc-140c-40f4-b538-c4eaf76ae52e" />
+
+<img width="1255" height="805" alt="Screenshot 2026-04-27 214908" src="https://github.com/user-attachments/assets/a43b983e-3de9-4a62-a504-b440648db3f2" />
+
+<img width="567" height="638" alt="Screenshot 2026-04-27 214941" src="https://github.com/user-attachments/assets/ae352fd9-99d0-454c-ac09-9cd7530dbf67" />
+
+<img width="554" height="946" alt="Screenshot 2026-04-27 214954" src="https://github.com/user-attachments/assets/4e3c116b-c8f4-409e-b326-bfdb25b79b49" />
+
+<img width="1278" height="857" alt="Screenshot 2026-04-27 215025" src="https://github.com/user-attachments/assets/c8ae4edd-478b-43aa-83d0-d90e0b9c5207" />
 
 ## Roadmap
 
